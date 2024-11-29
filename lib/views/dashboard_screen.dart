@@ -17,8 +17,8 @@ class DashboardScreen extends StatelessWidget {
           'Task Dashboard',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
-        centerTitle: true, // Centers the title in the AppBar
-        backgroundColor: Colors.purple, // Sets the AppBar color to purple
+        centerTitle: true,
+        backgroundColor: Colors.purple,
       ),
       body: Column(
         children: [
