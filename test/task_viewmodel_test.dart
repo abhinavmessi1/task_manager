@@ -1,5 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:task_manager/view_models/task_viewmodel.dart';
+import 'package:task_manager/viewmodels/task_viewmodel.dart';
+import 'package:task_manager/models/task_model.dart';
 
 void main() {
   late TaskViewModel taskViewModel;
